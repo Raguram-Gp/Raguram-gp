@@ -38,7 +38,7 @@
 
 ##
 
-<p align = "center"> <img src ="https://komarev.com/ghvpc/?username=raguram-gp&label=profile%20views&color=0e756&style=flat" alt= "raguram-gp" /></p>
+<p> <img src= "https://komarev.com/ghpvc/?username=raguram-gp" alt= "raguram-gp" /></p>
 
 ##
 
